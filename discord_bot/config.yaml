@@ -1,0 +1,8 @@
+name: Discord Bot
+version: 1.0
+slug: discord_bot
+description: A Discord bot to sync Plex with Home Asst
+startup: application
+boot: auto
+options: {}
+schema: {}
